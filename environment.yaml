@@ -1,0 +1,5 @@
+name: stable-diffusion
+
+dependencies:
+  - python=3.9
+  - ipykernel
